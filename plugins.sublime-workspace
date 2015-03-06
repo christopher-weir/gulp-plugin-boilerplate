@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 123.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Administrator/Sites/plugins",
+		"/Users/Administrator/Sites/plugins/plugins",
+		"/Users/Administrator/Sites/plugins/plugins/AngularJs-Wordpress-Rest-Api",
+		"/Users/Administrator/Sites/plugins/plugins/AngularJs-Wordpress-Rest-Api/src",
+		"/Users/Administrator/Sites/plugins/src",
+		"/Users/Administrator/Sites/plugins/src/js",
+		"/Users/Administrator/Sites/plugins/src/js/AngularJs-Wordpress-Rest-Api",
+		"/Users/Administrator/Sites/plugins/src/js/AngularJs-Wordpress-Rest-Api/plugins",
+		"/Users/Administrator/Sites/plugins/www"
+	],
+	"file_history":
+	[
+		"/Users/Administrator/Sites/plugins/src/js/AngularJs-Wordpress-Rest-Api/plugins/core.js",
+		"/Users/Administrator/Sites/plugins/gulpfile.js",
+		"/Users/Administrator/Sites/plugins/src/js/AngularJs-Wordpress-Rest-Api/module.js",
+		"/Users/Administrator/Sites/plugins/src/js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/controllers/core.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/config.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-dashboard/controllers/dashboard.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/consultant-info/directives/consultant-info.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-dashboard/views/dashboard.html",
+		"/Users/Administrator/Sites/viewtrail/viewtrail.sublime-project",
+		"/Users/Administrator/Sites/viewtrail/Gruntfile.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/services/booking-service.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-dashboard/_module.js",
+		"/Users/Administrator/Sites/viewtrail/src/views/index.html",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/consultant-info/views/consultant-info.html",
+		"/Users/Administrator/Sites/viewtrail/README.md",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/services/date-utility.js",
+		"/Users/Administrator/Sites/viewtrail/app/routes/superfacts.js",
+		"/Users/Administrator/Sites/viewtrail/app/controllers/superfacts.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/controllers/information-expander.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-dashboard/config/routes.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/config/routes.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/_module.js",
+		"/Users/Administrator/Sites/viewtrail/public/js/app.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-login/_module.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-login/config/routes.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-login/controllers/login.js",
+		"/Users/Administrator/Sites/viewtrail/public/index.html",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-login/views/login.html",
+		"/Users/Administrator/Sites/viewtrail/.dist/templates.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/services/user-service.js",
+		"/Users/Administrator/Sites/viewtrail/bower.json",
+		"/Users/Administrator/Sites/viewtrail/src/public/app.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/filters/core.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/state-login",
+		"/Users/Administrator/Sites/viewtrail/package.json",
+		"/Users/Administrator/Sites/viewtrail/karma.conf.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/tests/booking-service.test.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/directives/information-expander.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/services/BookingService.js",
+		"/Users/Administrator/Sites/viewtrail/src/public/booking/booking-form/bookingForm.ctrl.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/core/services/core.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/app.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/views/information-expander.html",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/information-expander.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/directives/component.directive.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/controllers/component.controller.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/information-expander/component-name.js",
+		"/Users/Administrator/Sites/viewtrail/.bowerrc",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/_blank-component/component-name.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/_blank-component/directives/component.directive.js",
+		"/Users/Administrator/Sites/viewtrail/src/js/angular-components/_blank-component/controllers/component.controller.js",
+		"/Users/Administrator/Sites/viewtrail/server.js",
+		"/Users/Administrator/Sites/viewtrail/public/css/site.css",
+		"/Users/Administrator/Sites/viewtrail/src/less/site.less",
+		"/Users/Administrator/Sites/viewtrail/src/scss/site.less",
+		"/Users/Administrator/Sites/viewtrail/.jshintrc",
+		"/Users/Administrator/Sites/viewtrail/.gitignore"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/api/superfacts/",
+			"File not found",
+			"clientHtml",
+			"html2js",
+			"coreCtrl",
+			"concat",
+			"angular-ui-router",
+			"    \n",
+			"booking-header",
+			"itineraryDataFilter",
+			"THISISIATEST",
+			"karma",
+			"BookingService",
+			"ApplicationConfiguration",
+			"concat",
+			"concat_lib",
+			"replace",
+			"renderFile",
+			"ejs",
+			"clientHtml",
+			"uglify",
+			"sass",
+			"clientSass",
+			"uglify",
+			"true",
+			"concat",
+			"watchFiles",
+			"jshint",
+			"/viewtrail/sandbox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"clientLess"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "plugins.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
